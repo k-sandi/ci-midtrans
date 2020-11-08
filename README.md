@@ -1,17 +1,21 @@
 APLIKASI CHECKOUT SEDERHANA MENGGUNAKAN CODEIGNITER DENGAN INTEGRASI MIDTRANS
 
-**********************************************
+********************************************************************
 
 Nama : Kurnia Sandi
 
 Email : kurniya097@gmail.com
 
-**********************************************
+********************************************************************
 
-Langkah Install (Fresh)
+Syarat-Syarat :
+1. Minimal PHP versi 5.4.x ke atas.
+2. Minimal Codeigniter versi 2.2.x ke atas.
+
+Langkah Install :
 1. Download atau Clone Project ci-midtrans.
 2. Ganti base_url di folder application/config/config.php menjadi "http://localhost/ci-midtrans/" (Jika menggunakan localhost).
-3. Daftar Akun Midtrans.
+3. Jika belum punya akun Midtrans, Silahkan daftar terlebih dahulu (https://account.midtrans.com/register).
 4. Jika Berhasil, Login ke sistem Midtrans.
 5. Gunakan versi testing atau sendbox.
 6. Pada Side Bar pilih menu "SETTINGS" --> "ACCESS KEY".
@@ -23,7 +27,7 @@ Langkah Install (Fresh)
 12. Jangan lupa sambungkan INTERNET.
 13. Selesai, Salam Luar Biasa.
 
-***********************************************
-#PHP #JQuery #Codeigniter #Midtrans #Bootstrap
+********************************************************
+#PHP #JQuery #Codeigniter #Midtrans #Bootstrap #HTML
 
-************************************************
+********************************************************
