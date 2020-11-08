@@ -9,7 +9,11 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
     <script type="text/javascript"
             src="https://app.sandbox.midtrans.com/snap/snap.js"
-            data-client-key="SB-Mid-client-iSrJdwUfbYQbSyVy"></script>
+            data-client-key="<PASTE CLIENT KEY DI SINI>"></script>
+            <!-- 
+            contoh :
+            data-client-key="xxjhash1idhfksdnfnsdjkjVy"></script> 
+            -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 </head>
 <body>

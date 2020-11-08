@@ -3,7 +3,11 @@
   <head>
     <script type="text/javascript"
             src="https://app.sandbox.midtrans.com/snap/snap.js"
-            data-client-key="SB-Mid-client-iSrJdwUfbYQbSyVy"></script>
+            data-client-key="<PASTE CLIENT KEY DI SINI>"></script>
+            <!-- 
+            contoh :
+            data-client-key="xxjhash1idhfksdnfnsdjkjVy"></script> 
+            -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
   </head>
   <body>
