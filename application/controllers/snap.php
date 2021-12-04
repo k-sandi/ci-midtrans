@@ -23,7 +23,7 @@ class Snap extends CI_Controller {
 	public function __construct()
     {
         parent::__construct();
-        $params = array('server_key' => '<PASTE SERVER KEY VERSI TEST/SENDBOX DI SINI>', 'production' => false);
+        $params = array('server_key' => 'SB-Mid-server-E5lUUNES9N9ZU-aN99o6Fgwg', 'production' => false);
 		/*
 		Contoh : 
 		$params = array('server_key' => 'dhudhsifhduishfidshfuiuhs8ewtYdsbj', 'production' => false); 
